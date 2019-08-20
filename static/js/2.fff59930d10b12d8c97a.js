@@ -1,0 +1,2 @@
+webpackJsonp([2],{"8PDu":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var l={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n    Shoplist\n")])},staticRenderFns:[]},r=t("VU/8")(null,l,!1,null,null,null);n.default=r.exports}});
+//# sourceMappingURL=2.fff59930d10b12d8c97a.js.map

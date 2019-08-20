@@ -1,0 +1,2 @@
+webpackJsonp([5],{Vs2M:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"container"},[this._v("\n   礼物\n")])},staticRenderFns:[]},l=t("VU/8")(null,s,!1,null,null,null);n.default=l.exports}});
+//# sourceMappingURL=5.304e8e6cf3e2e6d8dcca.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([6],{"IGz+":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var l={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"container"},[this._v("\n    赛事游戏\n")])},staticRenderFns:[]},s=t("VU/8")(null,l,!1,null,null,null);n.default=s.exports}});
+//# sourceMappingURL=6.4f589a45c73056b0aa51.js.map
